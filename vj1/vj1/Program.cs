@@ -10,6 +10,7 @@ namespace vj1
         static void Main(string[] args)
         {
             Console.WriteLine("I forgive you Darkos");
+            //we don't forgive you Darkos
         }
     }
 }
