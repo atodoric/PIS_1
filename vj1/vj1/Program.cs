@@ -11,7 +11,10 @@ namespace vj1
         {
             Console.WriteLine("I forgive you Darkos");
             //we don't forgive you Darkos
+
             Console.WriteLine("Hello commit");
+
+            Console.WriteLine("YO YO");
         }
     }
 }
